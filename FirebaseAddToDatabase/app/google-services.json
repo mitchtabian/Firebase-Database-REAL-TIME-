@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837831342658",
+    "firebase_url": "https://fir-addtodatabase.firebaseio.com",
+    "project_id": "fir-addtodatabase",
+    "storage_bucket": "fir-addtodatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837831342658:android:871de68adcc65c36",
+        "android_client_info": {
+          "package_name": "com.tabian.firebaseaddtodatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837831342658-ir3l1ivdr762ngetub9f257o7ma2jhno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSqMBCXYYck7eQ46HC-au0vglVClUQho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837831342658-ir3l1ivdr762ngetub9f257o7ma2jhno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
